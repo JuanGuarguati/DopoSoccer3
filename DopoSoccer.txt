@@ -1,0 +1,11 @@
+DOPOSoccer - Proyecto final DOPO (ECI, 2026-2)
+Integrantes: J & J
+Repositorio: https://github.com/JuanGuarguati/DOPOSoccer
+
+Juego de fútbol de cabezones en Java Swing: dos jugadores (o un jugador contra la máquina)
+juegan en la misma pantalla; gana quien meta más goles por tiempo o quien llegue primero a
+cierta cantidad de goles. Con los puntos ganados se compran mejoras de estadísticas.
+
+Cómo ejecutarlo y estructura: ver README.TXT.
+Diagramas: DOPOSoccer_Diagramas.asta (y en PNG en documentacion/diagramas).
+Retrospectiva y planificación de las versiones: carpeta documentacion.

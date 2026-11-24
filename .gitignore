@@ -1,0 +1,8 @@
+# Archivos que genera BlueJ / Java al compilar
+*.class
+*.ctxt
+bin/
+DOPOSoccer.log*
+
+# Configuración del editor (cada uno usa la suya)
+.vscode/
